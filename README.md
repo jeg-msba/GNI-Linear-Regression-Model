@@ -11,4 +11,6 @@ number-of-deaths-by-risk-factor.csv, API_NY.GNP.PCAP.CD_DS2_en_csv_v2, and API_S
 
 Sources
 
-![image](https://github.com/jeg-msba/GNI-vs-Deaths-by-Risk-Factors-Linear-Regression-Analysis/assets/111711622/6756526a-64c8-4443-a040-e83e4ee0f164)
+# https://ourworldindata.org/grapher/number-of-deaths-by-risk-factor
+# https://databank.worldbank.org/reports.aspx?source=2&series=NY.GNP.PCAP.CD&country=
+# https://databank.worldbank.org/reports.aspx?source=2&series=SP.POP.TOTL&country=
