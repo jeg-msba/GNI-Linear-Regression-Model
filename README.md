@@ -8,3 +8,7 @@ This project analyzes the relationship between the number of deaths worldwide du
 GNI-Death Risk Analysis.docx is the report on this project. It describes the data aquisition, cleaning, merging of data, the model building, and model validation.
 GNI-vs-deathrate.ipynb is a deepnote python notebook with the code used to clean and merge data, build the model, and validate the model.
 number-of-deaths-by-risk-factor.csv, API_NY.GNP.PCAP.CD_DS2_en_csv_v2, and API_SP.POP.TOTL_DS2_en_csv_v2 are the three data sources for this project
+
+Sources
+
+![image](https://github.com/jeg-msba/GNI-vs-Deaths-by-Risk-Factors-Linear-Regression-Analysis/assets/111711622/6756526a-64c8-4443-a040-e83e4ee0f164)
